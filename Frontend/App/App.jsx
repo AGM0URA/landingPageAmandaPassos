@@ -5,8 +5,7 @@ import LeadingPage from "../Pages/LeadingPage";
 
 const App = () => {
   return (
-     <LeadingPage>
-     </LeadingPage>
+     <LeadingPage/>
   );
 };
 
